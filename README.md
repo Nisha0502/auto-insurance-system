@@ -24,3 +24,7 @@ A simple Java web application built using JSP, Servlets, and JDBC to register in
 - src/servlets: Backend servlet classes
 - WebContent/: JSP files, dashboard, and forms
 - web.xml: Servlet configuration
+
+  ## 👩‍💻 Author
+Nisha Chaudharay
+
