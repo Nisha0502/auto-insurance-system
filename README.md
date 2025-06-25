@@ -37,7 +37,7 @@ A simple Java web application built using JSP, Servlets, and JDBC to register in
 
 A detailed project walkthrough PPT used during academic submission.
 
-🔗 [View Presentation](project-presentation/Auto-Insurance-WebApp-PPT.pdf)
+🔗 [View Presentation](https://github.com/Nisha0502/auto-insurance-system/blob/main/Auto-Insurance%20using%20webtech%20ppt.pdf)
 
 ---
 
