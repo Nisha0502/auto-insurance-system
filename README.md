@@ -29,7 +29,15 @@ A simple Java web application built using JSP, Servlets, and JDBC to register in
 ![Register](https://github.com/Nisha0502/auto-insurance-system/blob/main/Register%20Page.png?raw=true)
 
 ### 📊 Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](https://github.com/Nisha0502/auto-insurance-system/blob/main/Dashboard%20Page.png?raw=true)
+
+---
+
+## 📄 Project Presentation
+
+A detailed project walkthrough PPT used during academic submission.
+
+🔗 [View Presentation](project-presentation/Auto-Insurance-WebApp-PPT.pdf)
 
 ---
 
