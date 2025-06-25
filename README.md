@@ -23,7 +23,7 @@ A simple Java web application built using JSP, Servlets, and JDBC to register in
   ## 📸 Screenshots
 
 ### 🔐 Login Page
-![Login](screenshots/login.png)
+![Login](https://github.com/Nisha0502/auto-insurance-system/blob/main/Login%20Page.png?raw=true)
 
 ### 📝 Register Page
 ![Register](screenshots/register.png)
